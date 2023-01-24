@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTicBoom</string>
+    <string name="tictactoe">TicTacToe</string>
+    <string name="a_svs_product">A S &amp; S Product</string>
+    <string name="main_grid">Main Grid</string>
+    <string name="player_1_s_turn_tap_to_play">X\'s turn : Tap to Play</string>
+    <string name="nobody">HAHA ! Nobody Won</string>
+</resources>
